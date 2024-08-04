@@ -7,10 +7,10 @@ Here is what I gonna do:
 
 Instead of writing the fundamental system of most deep learning frameworks(autograd, datatype.....), I decide to write some common used layers and functions:
 
-* [] Linear Layer (Fully Connected Layer)
-* [] Convolutional Layer (1D, 2D.....)
-* [] Activation Functions (ReLU, Sigmoid, SiLU....)
-* [] Pooling Layers
+*  Linear Layer (Fully Connected Layer)
+*  Convolutional Layer (1D, 2D.....)
+*  Activation Functions (ReLU, Sigmoid, SiLU....)
+*  Pooling Layers
 
 I decide to re-impl these functions first because they are easy to write, and after I finish these functions, we will get back to write the above fundamental systems and we can easily verify them using the written layers.
 
