@@ -7,7 +7,7 @@ Here is what I gonna do:
 
 Instead of writing the fundamental system of most deep learning frameworks(autograd, datatype.....), I decide to write some common used layers and functions:
 
-* [ ]  Linear Layer (Fully Connected Layer)
+* [x]  Linear Layer (Fully Connected Layer)
 * [ ] Convolutional Layer (1D, 2D.....)
 * [ ] Activation Functions (ReLU, Sigmoid, SiLU....)
 * [ ] Pooling Layers
