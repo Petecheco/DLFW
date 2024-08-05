@@ -25,4 +25,4 @@ I decide to re-impl these functions first because they are easy to write, and af
 
 
 
-NOTE: These repository is **not** meant for production use, it's just me practicing my coding techniques. The mostly used package is numpy(i guess).
+NOTE: These repository is **not** meant for production use, it's just me practicing my coding techniques. The mostly used package is numpy(I guess).
